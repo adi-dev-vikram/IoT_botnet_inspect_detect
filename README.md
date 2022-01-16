@@ -1,4 +1,4 @@
-# IoT_botnet_detection
+# Botnet Detection using Machine learning on IoT devices
 
 ## About the project :
 
