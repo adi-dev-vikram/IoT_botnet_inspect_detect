@@ -9,3 +9,5 @@ There has been a significant rise in IoT devices and since these devices are les
 The BoT-IoT dataset was created by cybersecurity lab in UNSW Canberra. The network environment incorporated a combination of benign and botnet or malicious traffic. I have combined the datasets into a single csv file. The files were separated, based on attack category and subcategory, to better assist in labeling process. we aimed at distinguishing between benign and Malicious traffic data by means of anomaly detection techniques.
 It contains the following features like:- source ip, dest ip, src_port, dst_port and protocol etc.
 
+Another Data set that i will use : https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT (UCI Data)
+
