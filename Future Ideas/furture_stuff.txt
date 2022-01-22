@@ -1,1 +1,2 @@
 
+In future the app would take input as pcap file or genrate pcap files, then convert them into CSV files and perform classification.
