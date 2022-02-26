@@ -12,3 +12,13 @@ In future the app would take input as pcap file or genrate pcap files, then conv
 
 Another Data set that i will use : https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT (UCI Data)
 
+Machine learning algorithms used :
+
+SVM
+ANN
+
+Classification Metrices :
+Accuracy:
+F1 Score: 
+Precision: 
+Recall: 
