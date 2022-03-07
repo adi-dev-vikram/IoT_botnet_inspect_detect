@@ -1,0 +1,4 @@
+
+1.) In future the app would take input as pcap file or genrate pcap files and display visualization of various packet features, then convert them into CSV files and perform classification.
+
+2.) This would allow the user to save time in analysing the pcap for certain metrics. Also, it would provide a comprehensive approach to network monitoring and threat detection.
