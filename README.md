@@ -1,4 +1,4 @@
-# Botnet Detection using Machine learning on IoT devices
+# Traffic Inspector tool ( python based tool that analyses your PCAP (network traffic) and produces insights and botnet detection)
 
 ## About the project :
 
