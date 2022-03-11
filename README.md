@@ -14,11 +14,16 @@ Another Data set that i will use : https://archive.ics.uci.edu/ml/datasets/detec
 
 Machine learning algorithms used :
 
-SVM
-ANN
+* SVM
+* ANN
+* Random Forest
 
 Classification Metrices :
 Accuracy:
 F1 Score: 
 Precision: 
 Recall: 
+
+## Pcap Analyser tool :
+We have implemented a web app and CLI tool that performs statistical analysis on the pcap file which gives valuable insights and saves time.
+Used Scapy, pandas for this.
