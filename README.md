@@ -19,11 +19,11 @@ Machine learning algorithms used :
 * Random Forest
 
 Classification Metrices :
-*Accuracy:
-*F1 Score: 
-*Precision: 
-*Recall: 
+* Accuracy:
+* F1 Score: 
+* Precision: 
+* Recall: 
 
 ## Pcap Analyser tool :
 We have implemented a web app and CLI tool that performs statistical analysis on the pcap file which gives valuable insights and saves time.
-Used Scapy, pandas for this.
+This script uses Pandas, PrettyTable and Scapy to do this work.
