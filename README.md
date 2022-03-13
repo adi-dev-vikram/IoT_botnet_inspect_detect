@@ -18,7 +18,7 @@ In future the app would take input as pcap file or genrate pcap files, then conv
 * Scapy
 * PrettyTable
 
-Machine learning algorithms used : **<ins>Hello world</ins>**
+Machine learning algorithms used : 
 
 * SVM
 * ANN
