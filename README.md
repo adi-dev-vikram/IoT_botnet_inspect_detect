@@ -1,4 +1,4 @@
-# Traffic Inspector ( python based tool that analyses your PCAP (network traffic) and produces insights and botnet detection)
+# Traffic Inspector ( python based tool that analyses your PCAP and produces insights and botnet detection)
 
 ## About the project :
 
