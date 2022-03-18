@@ -12,7 +12,7 @@ The BoT-IoT dataset was created by cybersecurity lab in UNSW Canberra. The netwo
 It contains the following features like:- source ip, dest ip, src_port, dst_port and protocol, total_data, sent_data, recv_data etc.
 In future the app would take input as pcap file or genrate pcap files, then convert them into CSV files and perform classification.
 
-Checkout the web app here : https://pcap-analyser.herokuapp.com/
+Checkout the web app here : https://net-inspect.herokuapp.com/
 
 ## Requirements:
 * IPython notebook (Colab)
