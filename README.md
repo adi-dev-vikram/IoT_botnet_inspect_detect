@@ -1,4 +1,4 @@
-# Traffic Inspector ( python based tool that analyses your PCAP and produces insights and botnet detection)
+# Traffic Inspector ( python-based tool that analyses your PCAP and produces insights and botnet detection)
 
 ## About the project :
 
@@ -13,6 +13,9 @@ It contains the following features like:- source ip, dest ip, src_port, dst_port
 In future the app would take input as pcap file or genrate pcap files, then convert them into CSV files and perform classification.
 
 Checkout the web app here : https://net-inspect.herokuapp.com/
+The web app curently only supports statistical analysis of traffic in pcap file. We are working on pcap->csv conversion and subsequent botnet detection capability.
+
+Please cite this repo if you are planning on using this code. Please only use for academic purposes.
 
 ## Requirements:
 * IPython notebook (Colab)
