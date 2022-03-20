@@ -15,7 +15,7 @@ In future the app would take input as pcap file or genrate pcap files, then conv
 Checkout the web app here : https://net-inspect.herokuapp.com/
 The web app curently only supports statistical analysis of traffic in pcap file. We are working on pcap->csv conversion and subsequent botnet detection capability.
 
-Please cite this repo if you are planning on using this code. Please only use for academic purposes.
+Please cite this repo if you are planning on using this code. 
 
 ## Requirements:
 * IPython notebook (Colab)
