@@ -1,5 +1,5 @@
 from prettytable import PrettyTable
-%matplotlib inline
+
 def read_pcap():
   pcap_read = rdpcap('suspicious.pcap')
   for pkt in pcap_read:
@@ -51,6 +51,15 @@ def main():
 
 
 if __name__=='__main__':
+  parser = argparse.ArgumentParser(description='enter pcap to analyse')
+  parser.add_argument('--pcap', metavar='<pcap file name>',
+                        help='pcap file to parse', required=True)
+  args = parser.parse_args()
+    
+  file_name = args.pcap
+  if not os.path.isfile(file_name):
+      print('"{}" does not exist'.format(file_name), file=sys.stderr)
+      sys.exit(-1)
   main()
 
 #interface = "eth0"
